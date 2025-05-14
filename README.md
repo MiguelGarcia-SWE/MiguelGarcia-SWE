@@ -21,4 +21,4 @@ Fun Fact: 🐾 I have three catsm
               
 
 
-Connect with me here -> [LinkedIn](https://www.linkedin.com/in/miguelanggarcia)
+Connect with me here -> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="miguelanggarcia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/miguelanggarcia?trk=profile-badge">Miguel A. Garcia</a></div>
