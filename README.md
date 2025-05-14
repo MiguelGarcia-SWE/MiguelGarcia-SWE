@@ -17,8 +17,7 @@ So im exploring the workings of OpenGL, GLSL, OpenCV, Raylib, and Vulkan!
 I’m passionate about PC building, game development, robotics, and always expanding my technical skill set through hands-on projects and experimentation.
 Fun Fact: 🐾 I have three catsm
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="miguelanggarcia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/miguelanggarcia?trk=profile-badge">Miguel A. Garcia</a></div>
               
 
 
-Connect with me here -> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="miguelanggarcia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/miguelanggarcia?trk=profile-badge">Miguel A. Garcia</a></div>
+Connect with me here ->  [LinkedIn](https://www.linkedin.com/in/miguelanggarcia/)
