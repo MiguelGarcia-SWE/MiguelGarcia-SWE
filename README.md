@@ -5,8 +5,8 @@
 ---
 ## Skills 
 
-Languages: C++, Python, C, JavaScript (Node.js, React), HTML/CSS |
-Technologies & Tools: Unreal Engine, Git, Docker, MongoDB, APIs, AI/ML, Computer Vision
+Languages: C++, Python, C, JavaScript, HTML/CSS |
+Technologies & Tools: Unreal Engine, Git, Docker, Node.js, React, MongoDB, APIs, AI/ML, Computer Vision
 
 ## About me 🤩
 
