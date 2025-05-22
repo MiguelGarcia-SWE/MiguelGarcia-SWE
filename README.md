@@ -5,7 +5,7 @@
 ---
 ## Skills 
 
-Languages: C++, Python, C, JavaScript, HTML/CSS |
+Languages: C++, Python, C, JavaScript, HTML/CSS
 
 Technologies & Tools: Unreal Engine, Git, Docker, Node.js, React, MongoDB, APIs, AI/ML, Computer Vision
 
