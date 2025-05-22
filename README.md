@@ -16,7 +16,7 @@ work at a lower level.
 So im exploring the workings of OpenGL, GLSL, OpenCV, Raylib, and Vulkan!
 
 I’m passionate about PC building, game development, robotics, and always expanding my technical skill set through hands-on projects and experimentation.
-Fun Fact: 🐾 I have three catsm
+Fun Fact: 🐾 I have three cats
 
               
 
