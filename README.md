@@ -1,11 +1,11 @@
 # 👋 Hi everyone, I'm Miguel Garcia
-🎓 Bachelors of Computer Engineering @ NJIT '26 | Minors in Drones & Robotics  
-💼 Currently working as a Full Stack Software Development Co-op @ Verizon
+🎓 Bachelors of Computer Engineering @ NJIT '26 | Minor in Applied Mathematics  
+💼 Former Full Stack Software Development Co-op @ Verizon
 
 ---
 ## Skills 
 
-Languages: C++, Python, C, JavaScript, HTML/CSS
+Languages: C++, Python, C, JavaScript
 
 Technologies & Tools: Unreal Engine, Git, Docker, Node.js, React, MongoDB, APIs, AI/ML, Computer Vision
 
