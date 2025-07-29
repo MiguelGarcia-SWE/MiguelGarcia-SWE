@@ -1,5 +1,5 @@
 # 👋 Hi everyone, I'm Miguel Garcia
-🎓 Bachelors of Computer Engineering @ NJIT '26 | Minor in Applied Mathematics  
+🎓 Bachelors of Computer Engineering @ NJIT '26 | Minor in Computational Mathematics 
 💼 Former Full Stack Software Development Co-op @ Verizon
 
 ---
@@ -13,7 +13,7 @@ Technologies & Tools: Unreal Engine, Git, Docker, Node.js, React, MongoDB, APIs,
 
 I'm currently diving deeper into graphics programming, tools, and game engines, with a focus on learning how systems 
 work at a lower level.
-So im exploring the workings of OpenGL, GLSL, OpenCV, Raylib, and Vulkan!
+So I'm exploring the workings of OpenGL, GLSL, OpenCV, Raylib, and APIs like Vulkan and DirectX!
 
 I’m passionate about PC building, game development, robotics, and always expanding my technical skill set through hands-on projects and experimentation.
 Fun Fact: 🐾 I have three cats
