@@ -1,5 +1,5 @@
 # 👋 Hi everyone, I'm Miguel Garcia
-🎓 Bachelors of Computer Engineering @ NJIT '26 | Minor in Computational Mathematics 
+🎓 Bachelors of Computer Engineering @ NJIT '27 | Minor in Computational Mathematics 
 💼 Former Full Stack Software Development Co-op @ Verizon
 
 ---
